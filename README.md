@@ -50,11 +50,7 @@ Acesse: http://localhost:8000/docs
 ## Endpoints
 | Metodo | Endpoint | Descricao |
 |--------|----------|-----------|
-| GET | /health | Status da API |
-| GET | /audience/live | Audiencia em tempo real |
-| GET | /audience/stats | KPIs por periodo |
-| GET | /audience/hourly | Fluxo hora a hora |
-| POST | /devices/register | Registrar novo device |
+...
  
 ## Autor
 Diego Troiani
